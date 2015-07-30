@@ -1,0 +1,2 @@
+# SKT
+MeanJS Project
